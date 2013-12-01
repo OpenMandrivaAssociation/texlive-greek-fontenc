@@ -1,11 +1,11 @@
-# revision 31809
+# revision 32276
 # category Package
 # catalog-ctan /language/greek/greek-fontenc
-# catalog-date 2013-10-01 16:56:00 +0200
+# catalog-date 2013-11-29 15:50:02 +0100
 # catalog-license lppl1.3
-# catalog-version 0.10.1
+# catalog-version 0.11
 Name:		texlive-greek-fontenc
-Version:	0.10.1
+Version:	0.11
 Release:	1
 Summary:	LICR macros and encoding definition files for Greek
 Group:		Publishing
@@ -42,11 +42,14 @@ fontenc.
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/README
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/README.html
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/alphabeta-euenc.def.html
+%doc %{_texmfdistdir}/doc/latex/greek-fontenc/alphabeta-euenc.def.txt
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/alphabeta-test.pdf
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/alphabeta-test.tex
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/alphabeta.sty.html
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/diacritics.pdf
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/diacritics.tex
+%doc %{_texmfdistdir}/doc/latex/greek-fontenc/euenc-test.pdf
+%doc %{_texmfdistdir}/doc/latex/greek-fontenc/euenc-test.tex
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/greek-euenc.def.html
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/greek-fontenc.def.html
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/greekhyperref.pdf
@@ -56,8 +59,6 @@ fontenc.
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/lgrenc-test.pdf
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/lgrenc-test.tex
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/lgrenc.def.html
-%doc %{_texmfdistdir}/doc/latex/greek-fontenc/test-euenc.pdf
-%doc %{_texmfdistdir}/doc/latex/greek-fontenc/test-euenc.tex
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/textalpha-test.pdf
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/textalpha-test.tex
 %doc %{_texmfdistdir}/doc/latex/greek-fontenc/textalpha.sty.html
