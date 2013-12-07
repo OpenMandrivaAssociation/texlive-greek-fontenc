@@ -6,7 +6,7 @@
 # catalog-version 0.11
 Name:		texlive-greek-fontenc
 Version:	0.11
-Release:	4
+Release:	5
 Summary:	LICR macros and encoding definition files for Greek
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/greek/greek-fontenc
