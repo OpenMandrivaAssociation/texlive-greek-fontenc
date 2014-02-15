@@ -1,12 +1,12 @@
-# revision 32276
+# revision 32301
 # category Package
 # catalog-ctan /language/greek/greek-fontenc
-# catalog-date 2013-11-29 15:50:02 +0100
+# catalog-date 2013-12-02 17:59:53 +0100
 # catalog-license lppl1.3
-# catalog-version 0.11
+# catalog-version 0.11.1
 Name:		texlive-greek-fontenc
-Version:	0.11
-Release:	5
+Version:	0.11.1
+Release:	1
 Summary:	LICR macros and encoding definition files for Greek
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/greek/greek-fontenc
